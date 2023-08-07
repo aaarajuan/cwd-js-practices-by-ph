@@ -2,8 +2,8 @@
 1. variable
 var myName = 'AL';
 
-math operation: +, -, *, /
-shorthand: +=, -=, *=, /=
+arethmetic operator: math operation: +, -, *, /, %
+assignment operator / shorthand: +=, -=, *=, /=, %=
 ++, --
 2. Array
 var friends = ['abul', 'babul', 'cabul', 'dabul', 'ebul'];

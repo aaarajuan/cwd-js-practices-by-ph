@@ -1,6 +1,6 @@
 var num1 = 13;
 var num2 = 79;
-var num3 = 45;
+var num3 = 145;
 // find the lagest number
 if (num1 >= num2 && num1 >= num3){
     lagest = num1;
