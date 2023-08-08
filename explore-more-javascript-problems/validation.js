@@ -8,9 +8,5 @@ function add(num1, num2){
 const result = add(12, '45');
 console.log(result);
 
-let sum=0; 
-for( let i = 0; i<=3;i++){ 
-sum = sum + i; 
-console.log(sum);
-}
+
 
